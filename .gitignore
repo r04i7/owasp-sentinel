@@ -1,0 +1,7 @@
+# Build output and downloaded deps (re-created by build.sh / build.ps1 / gradle)
+build/
+lib/
+.gradle/
+*.class
+
+# Keep dist/ — it holds the loadable extension jar.
